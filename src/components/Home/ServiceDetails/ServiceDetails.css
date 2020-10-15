@@ -1,0 +1,10 @@
+.display-item{
+    margin: 20px;
+    border: none;
+}
+.display-item:hover{
+    
+  webkit-box-shadow: 9px -4px 25px -7px rgba(0,0,0,0.56);
+ -moz-box-shadow: 9px -4px 25px -7px rgba(0,0,0,0.56);
+  box-shadow: 9px -4px 25px -7px rgba(0,0,0,0.56);
+}
